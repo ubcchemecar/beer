@@ -1,0 +1,28 @@
+<html>
+<head>
+ <script type="text/javascript" src="https://pubnub.github.io/eon/v/eon/1.0.0/eon.js"></script>
+ <link type="text/css" rel="stylesheet" href="https://pubnub.github.io/eon/v/eon/1.0.0/eon.css" />
+ <script src="https://cdn.pubnub.com/sdk/javascript/pubnub.4.4.4.js"></script>
+</head>
+
+<body>
+ <div id="chart"></div>
+ <script type="text/javascript">
+ var __eon_pubnub = new PubNub({
+   // publishKey: 'pub-c-188806c6-3487-4cf2-9446-a3220bc2329f',
+   subscribeKey: 'sub-c-57ebd872-f976-11e6-9d64-0619f8945a4f'
+ });
+ eon.chart({
+   pubnub: __eon_pubnub,
+   channels: ["beer_sensor"], // the pubnub channel for real time data
+   generate: {           // c3 chart object
+     bindto: '#chart'
+   },
+   xType: 'custom',
+   xId: 'x'
+ });
+ </script>
+ </script>
+
+</body>
+</html>
