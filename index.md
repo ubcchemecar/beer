@@ -4,4 +4,4 @@ Presented at the AIChE Annual Student Meeting 2017. We will be updating the cont
 
 ### Contact
 
-Questions? Please email us at [brewing@ubcenvision.com](brewing@ubcenvision.com)
+Questions? Please email us at [brewing@ubcenvision.com](mailto:brewing@ubcenvision.com)
