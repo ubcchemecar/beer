@@ -9,12 +9,14 @@ Do you enjoy beer? Fermentation started in the Bronze Age and is theorized to be
 
 
 ## Slides
+Attached are the slides from the AIChE Minneapolis 2017 workshop. These slides outline general brewing theory as well as an idea of data flow and industry collaboration. 
 - [Slides](aiche2017.pdf)
 
 ## Instrumentation
 
 ## Brewing
-Resources related to b
+Resources related to brewing: 
+- Purchase 7 gallon conical fermenter: [SSBrewTech](https://www.ssbrewtech.com/collections/chronicals/products/7-gallon-chronical)
 
 ## Logistics & Administration
 Resources related to the logistics of setting up new brewing projects in your student chapter.
