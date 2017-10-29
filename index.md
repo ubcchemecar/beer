@@ -18,7 +18,7 @@ Resources related to b
 ## Logistics & Administration
 Resources related to the logistics of setting up new brewing projects in your student chapter.
 
-- [Logistics](logistics.md)
+- [Logistics](logistics)
 
 ## Contact
 Questions? Please feel free to email Josh Donaldson at [brewing@ubcenvision.com](mailto:brewing@ubcenvision.com)
