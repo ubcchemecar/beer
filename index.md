@@ -15,8 +15,10 @@ Do you enjoy beer? Fermentation started in the Bronze Age and is theorized to be
 ## Brewing
 Resources related to b
 
-## Logistics
-Resources related
+## Logistics & Administration
+Resources related to the logistics of setting up new brewing projects in your student chapter.
+
+- [Logistics](logistics.md)
 
 ## Contact
 Questions? Please feel free to email Josh Donaldson at [brewing@ubcenvision.com](mailto:brewing@ubcenvision.com)
