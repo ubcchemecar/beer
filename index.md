@@ -9,6 +9,7 @@ Do you enjoy beer? Fermentation started in the Bronze Age and is theorized to be
 
 
 ## Slides
+- [Slides](aiche2017.pdf)
 
 ## Instrumentation
 
