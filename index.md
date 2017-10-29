@@ -1,4 +1,6 @@
-# UBC Brewing Project
+# UBC CHBeer Brewing Project
+
+## Workshop
 Student workshop presented at the AIChE Annual Student Meeting 2017. [AIChE Event Link](https://www.aiche.org/conferences/annual-aiche-student-conference/2017/events/student-chapter-career-workshops)
 
 ### 11:45am - 12:30pm: Internet of Brewing (IoB) - The Digital Revolution Meets Beer
