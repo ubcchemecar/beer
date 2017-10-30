@@ -3,7 +3,7 @@
 ## Finances
 We will be attaching a spreadsheet breaking down start-up costs shortly.  
 
-[Here](Brewing Ingredient Budget - Sheet1.pdf) is an example spreadsheet of some recipes we broke down from BrewToad adapting from a 5 gallon brew to a 7 gallon brew. 
+[Here](IngredientsBudget.pdf) is an example spreadsheet of some recipes we broke down from BrewToad adapting from a 5 gallon brew to a 7 gallon brew. 
 
 ## Administration
 Team up with a professor and an administrator. Having faculty on your side can help. In Canada we operate under a home brewing liscense which means that we can brew as much beer as we want as long as we do not sell it. We must either donate the beer or drink it all (You guess which option we choose). Research the brewing liscenses in your state and ensure that you are obeying the rules. When you approach administration it is important that you have an answer to any question that they have.
