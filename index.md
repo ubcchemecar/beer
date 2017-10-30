@@ -4,8 +4,9 @@
 Student workshop presented at the AIChE Annual Student Meeting 2017. [AIChE Event Link](https://www.aiche.org/conferences/annual-aiche-student-conference/2017/events/student-chapter-career-workshops)
 
 ### 11:45am - 12:30pm: Internet of Brewing (IoB) - The Digital Revolution Meets Beer
-#### Presented by: Athanasios Kritharis, Siang Lim, Shams Elnawawi, and Josh Donaldson, University of British Columbia Student Chapter
-Do you enjoy beer? Fermentation started in the Bronze Age and is theorized to be the main driver behind the origin of civilization! However, controlling this biological process to achieve the desired characteristics of beer is challenging to this day. Large breweries employ sophisticated devices to control processes, thermodynamics, and to model kinetics, but homebrewers and craft breweries can’t afford to spend hundreds of thousands of dollars on high-end equipment. This workshop will demonstrate how to build a low-cost device that can monitor and control key process variables such as temperature and pH during the brewing process. Through the Internet of Things, it is possible to access and monitor process variables from anywhere! Come join us and learn how to make great beer from the comfort of your phone. Check out our demo app at [beer.ubcchemecar.com](http://beer.ubcchemecar.com)
+#### Presented by: Athanasios Kritharis, Siang Lim, Shams Elnawawi, and Josh Donaldson
+#### University of British Columbia Student Chapter
+Do you enjoy beer? Fermentation started in the Bronze Age and is theorized to be the main driver behind the origin of civilization! However, controlling this biological process to achieve the desired characteristics of beer is challenging to this day. Large breweries employ sophisticated devices to control processes, thermodynamics, and to model kinetics, but homebrewers and craft breweries can’t afford to spend hundreds of thousands of dollars on high-end equipment. This workshop will demonstrate how to build a low-cost device that can monitor and control key process variables such as temperature and pH during the brewing process. Through the Internet of Things, it is possible to access and monitor process variables from anywhere! Come join us and learn how to make great beer from the comfort of your phone. 
 
 
 ## Slides
@@ -13,10 +14,22 @@ Attached are the slides from the AIChE Minneapolis 2017 workshop. These slides o
 - [Slides](aiche2017.pdf)
 
 ## Instrumentation
+Resources related to instrumentation:
+- The brain of your circuit! [Raspberry Pi 3](https://www.amazon.com/Raspberry-Model-1-2GHz-64-bit-quad-core/dp/B01CD5VC92)
+- 
 
 ## Brewing
 Resources related to brewing: 
 - Purchase 7 gallon conical fermenter: [SSBrewTech](https://www.ssbrewtech.com/collections/chronicals/products/7-gallon-chronical)
+- Purchase [thermowell](https://www.ssbrewtech.com/collections/accessories/products/weldless-thermowell-with-lcd-temp-display) for thermometer
+- General Brewing Supplies and [resources](https://www.ontariobeerkegs.com/)
+
+
+## Software
+Resources related to software. 
+- Make an [Amazon Web Services](https://aws.amazon.com/) and work through the Wyld Rides workshop found at the [AWS Github Page](https://github.com/awslabs/aws-serverless-workshops/tree/master/WebApplication/1_StaticWebHosting).
+- Connect your Raspberry Pi to AWS IoT [here](http://docs.aws.amazon.com/iot/latest/developerguide/iot-sdk-setup.html)
+
 
 ## Logistics & Administration
 Resources related to the logistics of setting up new brewing projects in your student chapter.
@@ -24,4 +37,4 @@ Resources related to the logistics of setting up new brewing projects in your st
 - [Logistics](logistics)
 
 ## Contact
-Questions? Please feel free to email Josh Donaldson at [brewing@ubcenvision.com](mailto:brewing@ubcenvision.com)
+Questions? Please feel free to email Joshua Donaldson at [brewing@ubcenvision.com](mailto:brewing@ubcenvision.com)
