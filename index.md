@@ -13,6 +13,9 @@ Do you enjoy beer? Fermentation started in the Bronze Age and is theorized to be
 Attached are the slides from the AIChE Minneapolis 2017 workshop. These slides outline general brewing theory as well as an idea of data flow and industry collaboration. 
 - The AIChE workshop slides are found [here](aiche2017.pdf)
 
+## [Brewing](http://beer.ubcchemecar.com/brewing)
+Check out this page for details and instructions on brewing! Included are resources on where to buy brewing equipment, brewing instructions and the science of brewing! 
+
 ## Instrumentation
 Resources related to instrumentation:
 - The brain of your circuit! [Raspberry Pi 3](https://www.amazon.com/Raspberry-Model-1-2GHz-64-bit-quad-core/dp/B01CD5VC92)
