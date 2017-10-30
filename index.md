@@ -22,7 +22,7 @@ Resources related to instrumentation:
 Resources related to brewing: 
 - Purchase 7 gallon conical fermenter: [SSBrewTech](https://www.ssbrewtech.com/collections/chronicals/products/7-gallon-chronical)
 - Purchase [thermowell](https://www.ssbrewtech.com/collections/accessories/products/weldless-thermowell-with-lcd-temp-display) for thermometer
-- A general Standard Operating Procedure for a Pale Ale malt extract and centennial grain brew is found [here](SOPBreW centennial.docx.pdf)
+- A general Standard Operating Procedure for a Pale Ale malt extract and centennial grain brew is found [here](BrewSOP.pdf)
 - General Brewing Supplies and [resources](https://www.ontariobeerkegs.com/)
 
 
