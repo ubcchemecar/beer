@@ -1,5 +1,7 @@
 # Brewing
 
+To start your first brew find your nearest home brewing store. We have found that they are very helpful and responsive to any questions you have. Find a recipe online and make a list of the ingredients you need. Compare the list of ingredients to what the store has as there may be some variation in what the store actually carries. Go and purchase your ingredients and ask lots of questions. The guys in the stores are your masters students! Learn what you can!
+
 Below is a flowchart laying out the steps for a typical brew. See [logistics](http://beer.ubcchemecar.com/logistics) for purchasing information. 
 
 ![alt text][flowchart]
