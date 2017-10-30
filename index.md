@@ -16,9 +16,8 @@ Attached are the slides from the AIChE Minneapolis 2017 workshop. These slides o
 ## [Brewing](http://beer.ubcchemecar.com/brewing)
 Check out this page for details and instructions on brewing! Included are resources on where to buy brewing equipment, brewing instructions and the science of brewing! 
 
-## Instrumentation
-Resources related to instrumentation:
-- The brain of your circuit! [Raspberry Pi 3](https://www.amazon.com/Raspberry-Model-1-2GHz-64-bit-quad-core/dp/B01CD5VC92)
+## [Instrumentation](beer.ubcchemecar.com/instrumentation)
+Resources related to instrumentation. Included is a circuit diagram, purchasing details for Raspberry Pi's and sensors. 
 
 ## Software
 Resources related to software. 
