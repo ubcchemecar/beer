@@ -11,7 +11,7 @@ Do you enjoy beer? Fermentation started in the Bronze Age and is theorized to be
 
 ## Slides
 Attached are the slides from the AIChE Minneapolis 2017 workshop. These slides outline general brewing theory as well as an idea of data flow and industry collaboration. 
-- [Slides](aiche2017.pdf)
+- The AIChE workshop slides are found [here](aiche2017.pdf)
 
 ## Instrumentation
 Resources related to instrumentation:
@@ -22,6 +22,7 @@ Resources related to instrumentation:
 Resources related to brewing: 
 - Purchase 7 gallon conical fermenter: [SSBrewTech](https://www.ssbrewtech.com/collections/chronicals/products/7-gallon-chronical)
 - Purchase [thermowell](https://www.ssbrewtech.com/collections/accessories/products/weldless-thermowell-with-lcd-temp-display) for thermometer
+- A general Standard Operating Procedure for a Pale Ale malt extract and centennial grain brew is found [here](SOP BreW centennial.docx.pdf)
 - General Brewing Supplies and [resources](https://www.ontariobeerkegs.com/)
 
 
