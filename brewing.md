@@ -2,7 +2,7 @@
 
 Below is a flowchart laying out the steps for a typical brew. See [logistics]() for purchasing information
 
-[flowchart]
+![alt text][flowchart]
 
 See the Brewing SOP attached under resources at the bottom of the page. 
 
