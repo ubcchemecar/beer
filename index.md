@@ -19,10 +19,9 @@ Check out this page for details and instructions on brewing! Included are resour
 ## [Instrumentation](http://beer.ubcchemecar.com/instrumentation)
 Resources related to instrumentation. Included is a circuit diagram, purchasing details for Raspberry Pi's and sensors. 
 
-## Software
-Resources related to software. 
-- Make an [Amazon Web Services](https://aws.amazon.com/) and work through the Wyld Rides workshop found at the [AWS Github Page](https://github.com/awslabs/aws-serverless-workshops/tree/master/WebApplication/1_StaticWebHosting).
-- Connect your Raspberry Pi to AWS IoT [here](http://docs.aws.amazon.com/iot/latest/developerguide/iot-sdk-setup.html)
+## [Software](http://beer.ubcchemecar.com/software)
+Resources related to software. Coding tutorials and instructions on how to set-up your Raspberry Pi are included in this section. 
+
 
 ## [Logistics](http://beer.ubcchemecar.com/logistics)
 Resources related to the logistics of setting up new brewing projects in your AIChE Student Chapter. Topics discussed here include finances, administration and safety. 
