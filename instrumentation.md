@@ -9,29 +9,37 @@ This was an interesting one for us. All of us previously had expirience with Ard
 The most important basic measurement in brewing is temperature. **Temperature is essential to the flavor of the beer**. We suggest purchasing the DS18B20 Waterproof Temperature probe. On the brewing page we recommend purchasing a thermowell. This is so you can place your temperature sensor inside the fermenter without the sensor being in contact with the fluid. While the temperature sensors are waterproof this saves you the step of sanitizing them and the temperature profile in the fermenter is actually most accurate in that location as the fluid conducts the temperature throughout the thermowell. We set up an ambient temperature sensor as well to measure the ambient temperature which gives us an idea of how the temperature in the fermenter might flucuate as the temperature approaches equilibrium. The sensors we purchased have an uncertainty of 0.5 degrees Celsius which is a little too high for my liking. I recommend purchasing something more accurate. 
 
 TASKS COMPLETED TO DATE:
-Step 1: Obtain Raspberry Pi and sensors
-Step 2: Review datasheets for raspberry pi and sensors 
-Step 3: Configure the raspberry pi 
-Step 4: Preliminary hardware setup 
+1. Obtain Raspberry Pi and sensors
+2. Review datasheets for raspberry pi and sensors 
+3. Configure the raspberry pi 
+4. Preliminary hardware setup 
 	-Gather materials (breadboard, resistors, wires)
-  -Connect the first thermometer to the raspberry pi according to the specifications identified in the sensor and raspberry pi datasheets
-Step 5: Data acquisition and testing (see notes under software team’s recap)
+  	-Connect the first thermometer to the raspberry pi according to the specifications identified in the sensor and raspberry pi datasheets
+5. Data acquisition and testing (see notes under software team’s recap)
 	- Obtain temperature reading from the temperature sensor
 	- Software team set the sampling time and refined script for monitoring
-Step 6: Add a second temperature sensor
-Step 7: Software team reviewed and updated script to obtain reading from both temperature sensors
-Step 8: Addition of pH sensor to circuit (note a couple connections have been left open to avoid unnecessarily powering the sensor while not in use, however all pin and connection locations have been identified)
-Step 9: Implement a switch button to control data acquisition (in progress)
+6. Add a second temperature sensor
+7. Software team reviewed and updated script to obtain reading from both temperature sensors
+8. Addition of pH sensor to circuit (note a couple connections have been left open to avoid unnecessarily powering the sensor while not in use, however all pin and connection locations have been identified)
+9. Implement a switch button to control data acquisition (in progress)
 
 NEXT STEPS:
 Write a script to execute data monitoring script upon start-up
-Set up the button to control the power of the raspberry pi (effectively acting as a on/off switch).This will require minor hardware modifications and an additional script (see tutorials posted in slack)
+
+Set up the button to control the power of the raspberry pi (effectively acting as a on/off switch).This will require minor hardware modifications and an additional script.
+
 Write a script for pH data acquisition 
+
 Determine logistics of how to obtain pH measurements (sensor placement)
+
 Integrate weight sensor into the sensor system
+
 Review specification sheet to determine electrical and physical requirements
+
 Identify a suitable mounting location
+
 Determine which raspberry pi pins would be most suitable and make connections
+
 Write a script for weight sensor data acquisition
 
 RESOURCES
